@@ -1,1 +1,1 @@
-"# shopme" 
+#Shopme eCommerce Spring Application
